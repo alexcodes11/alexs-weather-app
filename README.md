@@ -1,2 +1,3 @@
-# alexs-weather-app
-Organized the files for deployment in Heroku. In this repo I connected Node.js proxy server with React.js Frontend
+# Alex's-Weather-App
+
+Welcome to my Weather App project. This was really fun to work on. 
