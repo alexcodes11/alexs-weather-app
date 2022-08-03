@@ -4,7 +4,7 @@ Welcome to my Weather App project!!! First of all, I wanted to explain that I ha
 
 
 ## Node.js Proxy Server
-You can check out the code here: 
+You can check out the code here: [github.com/alexcodes11/Weather](https://github.com/alexcodes11/Weather)
 
 ## React Frontend 
-You can check out the code here: 
+You can check out the code here: [github.com/alexcodes11/WeatherApp](https://github.com/alexcodes11/WeatherApp)
