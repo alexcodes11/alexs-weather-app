@@ -24,5 +24,5 @@ You can check out the code here: [github.com/alexcodes11/WeatherApp](https://git
 <br>
 * Now, that I have implemented the REST API. I am now able to request for the API data using React. 
 * It is much more simple now. Because instead of calling an API like this in the front end: 
-``` fetch(); ```js
+* ``` fetch(); ```js
 
