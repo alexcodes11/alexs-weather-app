@@ -27,6 +27,8 @@ You can check out the code here: [github.com/alexcodes11/WeatherApp](https://git
 
   * ``` fetch('https://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={lon}&appid={API key}') ```
 
-* I am able to call the my Node.js API like this:
+* I am able to call this using React:
 
   * ``` fetch('weather/?q={city}') ```
+
+* The reason I am able to do this is because I already made my REST API through Nodejs. It makes it much simpler to call it in REACT.
