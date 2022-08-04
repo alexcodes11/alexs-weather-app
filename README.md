@@ -3,7 +3,6 @@
 Welcome to my Weather App project!!! 
 
 <br>
-<br>
 
 First of all, I wanted to explain that I have another two seperate repositories for this application. One repository is for the Backend (Node.js Proxy Server) and the other repostitory is for the Frontend (React). This is perfect because if I ever want to expand this project I can have dedicated repositories. This will be much more organzied. And when I want to deploy changes I can connect them on this repository.
 
@@ -24,5 +23,6 @@ You can check out the code here: [github.com/alexcodes11/Weather](https://github
 You can check out the code here: [github.com/alexcodes11/WeatherApp](https://github.com/alexcodes11/WeatherApp). Now. let's discuss the frontend a little more...
 <br>
 * Now, that I have implemented the REST API. I am now able to request for the API data using React. 
-* It is much more simple now. Because
+* It is much more simple now. Because instead of calling an API like this in the front end: 
+``` fetch(); ```js
 
